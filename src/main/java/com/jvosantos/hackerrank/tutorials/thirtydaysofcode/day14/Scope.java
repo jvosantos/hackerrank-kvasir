@@ -1,4 +1,4 @@
-package com.jvosantos.hackerrank.tutorials.thirtydaysofcode;
+package com.jvosantos.hackerrank.tutorials.thirtydaysofcode.day14;
 
 import java.util.Scanner;
 import java.util.stream.IntStream;

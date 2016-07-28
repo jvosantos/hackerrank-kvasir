@@ -1,5 +1,6 @@
-package com.jvosantos.hackerrank.tutorials.thirtydaysofcode;
+package com.jvosantos.hackerrank.tutorials.thirtydaysofcode.day11;
 
+import com.jvosantos.hackerrank.tutorials.thirtydaysofcode.day11.TwoDArrays;
 import org.junit.Assert;
 import org.junit.Test;
 

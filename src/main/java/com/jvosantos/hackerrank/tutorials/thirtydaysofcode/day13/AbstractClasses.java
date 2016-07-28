@@ -1,4 +1,4 @@
-package com.jvosantos.hackerrank.tutorials.thirtydaysofcode;
+package com.jvosantos.hackerrank.tutorials.thirtydaysofcode.day13;
 
 import java.util.Scanner;
 

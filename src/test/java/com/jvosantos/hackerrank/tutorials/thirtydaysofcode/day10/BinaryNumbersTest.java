@@ -1,5 +1,6 @@
-package com.jvosantos.hackerrank.tutorials.thirtydaysofcode;
+package com.jvosantos.hackerrank.tutorials.thirtydaysofcode.day10;
 
+import com.jvosantos.hackerrank.tutorials.thirtydaysofcode.day10.BinaryNumbers;
 import org.junit.Assert;
 import org.junit.Test;
 

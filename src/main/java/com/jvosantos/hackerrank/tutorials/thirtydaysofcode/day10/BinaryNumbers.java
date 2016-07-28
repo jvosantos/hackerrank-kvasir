@@ -1,4 +1,4 @@
-package com.jvosantos.hackerrank.tutorials.thirtydaysofcode;
+package com.jvosantos.hackerrank.tutorials.thirtydaysofcode.day10;
 
 public class BinaryNumbers {
 
